@@ -1,0 +1,7 @@
+aim_output/
+*.csv
+*.db
+__pycache__/
+.chainlit/
+.env
+.DS_Store
